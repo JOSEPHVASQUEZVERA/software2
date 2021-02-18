@@ -1,0 +1,18 @@
+.algo {
+    background-color: royalblue;
+    border-radius: 15px;
+    transition: color 2s;
+}
+
+.algo:hover {
+    color: white;
+}
+
+.title {
+    font-size: 10px;
+    font-weight: bold;
+}
+.for {
+    margin-left: 10px;
+    background-image: url("https://www.google.com.pe/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Funs_chimbote%2Fstatus%2F1199700694418243584&psig=AOvVaw1EGrW_h7LDNn6puJxIJpcN&ust=1612510267496000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOji0IDbz-4CFQAAAAAdAAAAABAD");
+}
